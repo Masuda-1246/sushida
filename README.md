@@ -2,6 +2,13 @@
 
 このプロジェクトは、**Puppeteer** を使用して [Sushida](https://sushida.net/play.html?soundless) タイピングゲームのウェブサイトを自動操作し、特定の領域のスクリーンショットを取得し、**Tesseract.js** でOCR（光学文字認識）を実行してスクリーンショットからテキストを取得し、そのテキストに基づいて動作を行います。
 
+## DEMO
+
+
+https://github.com/user-attachments/assets/1e5b173b-56fc-429a-b62c-3d4e4a4cc514
+
+
+
 ## 機能
 
 - Sushidaゲームサイトでのマウスクリックやキーボード入力を自動化します。
